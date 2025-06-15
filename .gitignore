@@ -1,0 +1,18 @@
+# 建構資料夾
+/build/
+
+# 中間產物
+*.o
+*.out
+*.log
+
+# 編輯器暫存
+*.swp
+*.tmp
+
+# VSCode 設定
+.vscode/
+
+
+# 可執行檔
+minishell
